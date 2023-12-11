@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\bin\Debug\net6.0\Newstart.exe
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\bin\Debug\net6.0\Newstart.deps.json
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\bin\Debug\net6.0\Newstart.runtimeconfig.json
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\bin\Debug\net6.0\Newstart.dll
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\bin\Debug\net6.0\Newstart.pdb
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.AssemblyInfo.cs
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.dll
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\refint\Newstart.dll
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.pdb
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\Newstart.genruntimeconfig.cache
+C:\Users\user\Desktop\gamedev\Newstart\Newstart\obj\Debug\net6.0\ref\Newstart.dll
